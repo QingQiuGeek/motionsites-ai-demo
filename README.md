@@ -1,8 +1,8 @@
-使用[motionsites.ai](https://motionsites.ai/)生成的前端页面
+## 使用 [motionsites.ai](https://motionsites.ai/) 制作
 
 ![](img/image.png)
 
-效果如下：
+## 效果展示
 
 ![](img/image-1.png)
 
